@@ -1,0 +1,22 @@
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\bin\Debug\Kas Masuk Keluar.exe.config
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\bin\Debug\Kas Masuk Keluar.exe
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\bin\Debug\Kas Masuk Keluar.pdb
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\bin\Debug\Kas Masuk Keluar.xml
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.vbprojResolveAssemblyReference.cache
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas_Masuk_Keluar.Form1.resources
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas_Masuk_Keluar.Resources.resources
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.vbproj.GenerateResource.Cache
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.exe
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.xml
+D:\Semester 5\Pemrograman Visual\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.pdb
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\bin\Debug\Kas Masuk Keluar.exe.config
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.exe
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.xml
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.pdb
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\bin\Debug\Kas Masuk Keluar.exe
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\bin\Debug\Kas Masuk Keluar.pdb
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\bin\Debug\Kas Masuk Keluar.xml
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.vbprojResolveAssemblyReference.cache
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas_Masuk_Keluar.Form1.resources
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas_Masuk_Keluar.Resources.resources
+C:\Users\Netwin\Documents\SEMESTER 5\Visual Studio\praktikum\Tugas\Kas Masuk Keluar\Kas Masuk Keluar\obj\Debug\Kas Masuk Keluar.vbproj.GenerateResource.Cache
